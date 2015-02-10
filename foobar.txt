@@ -4251,3 +4251,4 @@ foo
 foo
 bar
 bar
+bar
