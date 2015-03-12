@@ -4467,3 +4467,4 @@ nil
 foo
 bar
 bar
+bar
