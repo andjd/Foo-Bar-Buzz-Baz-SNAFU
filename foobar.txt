@@ -4788,3 +4788,4 @@ bar
 bar
 nil
 nil
+foo
