@@ -5482,3 +5482,4 @@ baz
 baz
 baz
 foo
+foo
