@@ -5484,3 +5484,4 @@ baz
 foo
 foo
 foo
+nil
