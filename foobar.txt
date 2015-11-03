@@ -5658,3 +5658,4 @@ baz
 baz
 baz
 baz
+foo
